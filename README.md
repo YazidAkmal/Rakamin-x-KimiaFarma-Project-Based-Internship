@@ -13,5 +13,7 @@ ubah dengan rename tabel dan kolom didalam queryna)
 dari google looker, berikut tautan untuk mengaksesnya:
 https://lookerstudio.google.com/reporting/304a89bd-9bbc-4485-a924-dd228870072e 
 
+![Tampilan Dashboard](Dashboard%20Performance%20Analytics.jpg)
+
 Terimakasih, selamat explore
 ==============================================================================
